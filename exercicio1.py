@@ -13,7 +13,6 @@ while True:
 
     nome = str(input('Qual seu nome? '))
     peso = float(input('Qual seu peso? '))
-    
     pessoas.append([nome, peso])
 
     if len(pessoas) == 1:
