@@ -16,8 +16,10 @@ for c in range (1, 8):
 valores_numericos[0].sort()
 valores_numericos[1].sort()
 
-print('#*' * 15, 'RESULTADO', '#*' * 15)
+print('#*' * 30)
+print('RESULTADO')
+print('#*' * 30)
 
-print (f'Os valores númericos pares em ordem crescente são {valores_numericos[0]}')
-print (f'Os valores númericos impares em ordem crescente são {valores_numericos[1]}')
+print (f'Os valores númerico pares em ordem crescente são {valores_numericos[0]}')
+print (f'Os valores númerico ímpares em ordem crescente são {valores_numericos[1]}')
 
