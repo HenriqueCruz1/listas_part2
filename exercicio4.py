@@ -3,7 +3,7 @@
 # A soma de todos os valores da terceira coluna.
 # O maior valor da segunda linha.
 
-matriz = ([],[],[])
+matriz = [[],[],[]]
 soma_pares = 0
 soma_terceira_coluna = 0
 maior_valor_segunda_linha = 0

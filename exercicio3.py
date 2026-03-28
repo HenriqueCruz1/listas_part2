@@ -3,7 +3,7 @@
 #No final mostre a matriz na tela na formatação correta.
 
 
-matriz = ([],[],[])
+matriz = [[],[],[]]
 
 for c in range (1, 10):
     numero_matriz = int(input(f'Qual é o {c}° número da matriz '))
